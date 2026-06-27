@@ -15,7 +15,7 @@ TThe main objective of this project is to analyze Melbourne housing market data 
 - Finding relationships between housing features and prices
 - Generating business insights and recommendations
 
-  ### Project Workflow
+### Project Workflow
 **1. Data Collection**  
 - Imported the Melbourne Housing Dataset
 - Loaded data using Pandas
